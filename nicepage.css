@@ -18238,7 +18238,7 @@ div.u-video,
   /* override horizontal spacing */
 }
 .u-enable-responsive .u-sidenav .u-nav-link {
-  background: transparent;
+  background: yellow;
 }
 .u-enable-responsive .u-popupmenu-items {
   margin: 20px auto 0;
