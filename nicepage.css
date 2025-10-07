@@ -18154,7 +18154,7 @@ div.u-video,
   text-decoration: none;
   border: 0 none transparent;
   outline-width: 0;
-  background-color: transparent;
+  background-color: red;
   margin: 0;
   -webkit-text-decoration-skip: objects;
 }
